@@ -1,7 +1,13 @@
 # Smart Power Monitoring with PZEM-004T v3.0 and Blynk
 
-<img src="https://github.com/fajarlabs/Power_meter_ESP8266/blob/master/screenshoot/WhatsApp%20Image%202025-06-23%20at%2000.09.13_924c5ff7.jpg" width="45%" alt="Monitoring Screenshot 1">
-<img src="https://github.com/fajarlabs/Power_meter_ESP8266/blob/master/screenshoot/WhatsApp%20Image%202025-06-23%20at%2000.17.37_78426eb4.jpg" width="45%" alt="Monitoring Screenshot 2">
+<table>
+<tr>
+  <td><img src="https://github.com/fajarlabs/Power_meter_ESP8266/blob/master/screenshoot/WhatsApp%20Image%202025-06-23%20at%2000.09.13_924c5ff7.jpg" width="45%" alt="Monitoring Screenshot 1"></td>
+  <td><img src="https://github.com/fajarlabs/Power_meter_ESP8266/blob/master/screenshoot/WhatsApp%20Image%202025-06-23%20at%2000.17.37_78426eb4.jpg" width="45%" alt="Monitoring Screenshot 2"></td>
+</tr>
+</table>
+
+
 
 Sistem ini berfungsi untuk memantau konsumsi daya listrik menggunakan sensor **PZEM-004T v3.0**, dengan tampilan data real-time melalui **Blynk Cloud**.
 
