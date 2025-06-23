@@ -13,8 +13,6 @@ Sistem ini berfungsi untuk memantau konsumsi daya listrik menggunakan sensor **P
 
 ---
 
-# Smart Power Monitoring with PZEM-004T v3.0 and Blynk
-
 Sistem ini berfungsi untuk memantau konsumsi daya listrik menggunakan sensor **PZEM-004T v3.0**, dengan tampilan data real-time melalui **Blynk Cloud**.
 
 ## 🧰 Library yang Dibutuhkan
