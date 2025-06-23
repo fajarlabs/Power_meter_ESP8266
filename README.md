@@ -24,6 +24,17 @@ Pastikan Anda menginstal library berikut pada Arduino IDE:
 * [`ArduinoJson`](https://arduinojson.org/) versi **7.4.2**
 * [`PZEM004Tv30`](https://github.com/mandulaj/PZEM-004T-v30) versi **1.2.1**
 
+---
+
+## 📦 Modul yang Dibutuhkan
+
+- **ESP8266 / NodeMCU v3**
+- **Relay Module 30A (SLA-5VDC-SL-C)**
+- **PZEM-004T v3.0**
+- **Power Supply 5VDC**
+
+---
+
 ## ⚡ Alur Sistem
 
 ```
