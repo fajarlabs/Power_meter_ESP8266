@@ -111,4 +111,3 @@ Jika ada pertanyaan atau masukan, silakan buat *issue* di repository ini. Terima
 
 ---
 
-Jika kamu ingin, saya juga bisa bantu buatkan `README.md` file siap pakai.
